@@ -1,0 +1,50 @@
+[
+  {
+    "id": 22,
+    "slug": "ciudad-de-mexico",
+    "city_slug": "ciudad-de-mexico",
+    "display": "Ciudad de México",
+    "ascii_display": "ciudad de mexico",
+    "city_name": "Ciudad de México",
+    "city_ascii_name": "ciudad de mexico",
+    "state": "Distrito Federal",
+    "country": "México",
+    "lat": "19.4326077",
+    "long": "-99.133208",
+    "result_type": "city",
+    "popularity": "1.0",
+    "sort_criteria": 1
+  },
+  {
+    "id": 100,
+    "slug": "t-ciudad-de-mexico-central-norte",
+    "city_slug": "ciudad-de-mexico",
+    "display": "Central del Norte",
+    "ascii_display": "central del norte",
+    "city_name": "Ciudad de México",
+    "city_ascii_name": "ciudad de mexico",
+    "state": "Distrito Federal",
+    "country": "México",
+    "lat": "19.4794829",
+    "long": "-99.13953300000003",
+    "result_type": "terminal",
+    "popularity": "0.150",
+    "sort_criteria": 0.6599999999999999
+  },
+  {
+    "id": 15464,
+    "slug": "t-ciudad-de-mexico-177b73a2-c917-4e65-84f4-bcc32f86b6b3",
+    "city_slug": "ciudad-de-mexico",
+    "display": "Ciudad de México Terminal Greyhound",
+    "ascii_display": "ciudad de mexico terminal greyhound",
+    "city_name": "Ciudad de México",
+    "city_ascii_name": "ciudad de mexico",
+    "state": "Distrito Federal",
+    "country": "México",
+    "lat": null,
+    "long": null,
+    "result_type": "terminal",
+    "popularity": "0.00",
+    "sort_criteria": 0.20000002384185792
+  }
+]
